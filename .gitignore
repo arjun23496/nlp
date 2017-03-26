@@ -90,3 +90,6 @@ ENV/
 
 #data
 data/
+
+#trained object
+obj/
